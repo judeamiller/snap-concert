@@ -19,8 +19,13 @@
 					dual 24" 1080p monitors. Steve uses Chrome at work and at home, because his daughter uninstalled IE out
 					of frustration when playing the role of free tech support. He also owns an iPhone 5c running iOS 10 that
 					he inherited from his daughter. Steve only uses the iPhone for text messages and checking the weather.</li>
-			<li><strong>Frustrations:</strong>Steve does not like sites that limit his postings. Steve likes to write long
-				diatribes about the best or worst concert ever.</li>
+			<li><strong>Frustrations:</strong>
+				<ul>
+					<li>Steve does not like sites that character limit his postings. Steve likes to write exhausting posts about
+						his favorite bands getting better with age.</li>
+					<li>Steve does not like seeing posts berating his favorite band.</li>
+					<li>Steve does not like sites that require "complicated" passwords.</li>
+				</ul></li>
 		</ol>
 
 		<h2>Use Case</h2>
