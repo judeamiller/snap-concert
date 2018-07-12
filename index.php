@@ -19,7 +19,10 @@
 					dual 24" 1080p monitors. Steve uses Chrome at work and at home, because his daughter uninstalled IE out
 					of frustration when playing the role of free tech support. He also owns an iPhone 5c running iOS 10 that
 					he inherited from his daughter. Steve only uses the iPhone for text messages and checking the weather.</li>
+			<li><strong>Frustrations:</strong>Steve does not like sites that limit his postings. Steve likes to write long
+				diatribes about the best or worst concert ever.</li>
 		</ol>
+
 		<h2>Use Case</h2>
 		<p>Steve is in his late 50s and wants to relive his youth by attending more concerts. He is recently divorced, and
 			his daughter has recently moved to another city. Steve is lonely and needs to connect with like-minded individuals.
