@@ -12,7 +12,7 @@
 			<li><strong>Gender:</strong>Male</li>
 			<li><strong>Occupation:</strong>Project Manager at a regional architecture and engineering firm.</li>
 			<li><strong>Attitude:</strong>Steve has spent the past 38 years of his life working in an office environment.
-				Jerry is comfortable using a desktop computer and regularly spends 6 hours per day in MS Project. Steve does
+				Steve is comfortable using a desktop computer and regularly spends 6 hours per day in MS Project. Steve does
 				not use a smart phone much.</li>
 			<li><strong>Technology:</strong>Steve uses a 15" Inspiron Dell laptop running Windows 7 with a 2.5GHz i5 processor and
 					4GB of ram with a 1280 x 800 screen at home. At work Steve uses a Dell Precision tower with an i7 processor and
