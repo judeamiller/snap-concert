@@ -25,12 +25,14 @@
 						his favorite bands getting better with age.</li>
 					<li>Steve does not like seeing posts berating his favorite band.</li>
 					<li>Steve does not like sites that require "complicated" passwords.</li>
-				</ul></li>
+				</ul>
+			</li>
 		</ol>
 
 		<h2>Use Case</h2>
-		<p>Steve is in his late 50s and wants to relive his youth by attending more concerts. He is recently divorced, and
-			his daughter has recently moved to another city. Steve is lonely and needs to connect with like-minded individuals.
+		<p>Steve is in his late 50s and wants to relive his youth by attending more concerts. His youngest daughter has
+			recently moved to another city and many of his coworkers are retiring and moving to Florida. Steve is lonely and
+			needs to connect with like-minded individuals.
 			<br>
 			Steve has recently discovered that many of his favorite bands from his college days such as Journey and Rush
 			are frequently playing at local casinos. A quick google search informs Steve that this is happening all over the country.
