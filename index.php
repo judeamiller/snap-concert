@@ -16,7 +16,7 @@
 				not use a smart phone much.</li>
 			<li><strong>Technology:</strong>Steve uses a 15" Inspiron Dell laptop running Windows 7 with a 2.5GHz i5 processor and
 					4GB of ram with a 1280 x 800 screen at home. At work Steve uses a Dell Precision tower with an i7 processor and
-					dual 24" 1080p monitors. Steve uses Chrome at work and at home, because his daughter uninstalled IE out
+					dual 24" 1080p monitors running Windows 10 Professional. Steve uses Chrome at work and at home, because his daughter uninstalled IE out
 					of frustration when playing the role of free tech support. He also owns an iPhone 5c running iOS 10 that
 					he inherited from his daughter. Steve only uses the iPhone for text messages and checking the weather.</li>
 			<li><strong>Frustrations:</strong>
